@@ -1,0 +1,129 @@
+\\ac.stockton\root\UserHome\walshc4\Documents\Visual Studio 2017\SnakeBreeding\SnakeBreeding\bin\Debug\SnakeBreeding.exe.config
+\\ac.stockton\root\UserHome\walshc4\Documents\Visual Studio 2017\SnakeBreeding\SnakeBreeding\bin\Debug\SnakeBreeding.exe
+\\ac.stockton\root\UserHome\walshc4\Documents\Visual Studio 2017\SnakeBreeding\SnakeBreeding\bin\Debug\SnakeBreeding.pdb
+\\ac.stockton\root\UserHome\walshc4\Documents\Visual Studio 2017\SnakeBreeding\SnakeBreeding\bin\Debug\SnakeBreeding.xml
+\\ac.stockton\root\UserHome\walshc4\Documents\Visual Studio 2017\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.vbprojAssemblyReference.cache
+\\ac.stockton\root\UserHome\walshc4\Documents\Visual Studio 2017\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.frmOwner.resources
+\\ac.stockton\root\UserHome\walshc4\Documents\Visual Studio 2017\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.frmWelcome.resources
+\\ac.stockton\root\UserHome\walshc4\Documents\Visual Studio 2017\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.Resources.resources
+\\ac.stockton\root\UserHome\walshc4\Documents\Visual Studio 2017\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.vbproj.GenerateResource.cache
+\\ac.stockton\root\UserHome\walshc4\Documents\Visual Studio 2017\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.vbproj.CoreCompileInputs.cache
+\\ac.stockton\root\UserHome\walshc4\Documents\Visual Studio 2017\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.exe
+\\ac.stockton\root\UserHome\walshc4\Documents\Visual Studio 2017\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.xml
+\\ac.stockton\root\UserHome\walshc4\Documents\Visual Studio 2017\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.pdb
+\\ac.stockton\root\UserHome\walshc4\Documents\Visual Studio 2017\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.frmEmployee.resources
+\\ac.stockton\root\UserHome\walshc4\Documents\Visual Studio 2017\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.frmViewSpecimenOwner.resources
+\\ac.stockton\root\UserHome\walshc4\Documents\Visual Studio 2017\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.frmViewSpecimenEmployee.resources
+\\ac.stockton\root\UserHome\walshc4\Documents\Visual Studio 2017\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.frmAddSpecimen.resources
+\\ac.stockton\root\UserHome\walshc4\Documents\Visual Studio 2017\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.frmRemoveSpecimen.resources
+\\ac.stockton\root\UserHome\walshc4\Documents\Visual Studio 2017\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.frmScheduleEmployee.resources
+\\ac.stockton\root\UserHome\walshc4\Documents\Visual Studio 2017\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.frmScheduleOwner.resources
+\\ac.stockton\root\UserHome\walshc4\Documents\Visual Studio 2017\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.frmViewStockOwner.resources
+\\ac.stockton\root\UserHome\walshc4\Documents\Visual Studio 2017\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.frmViewStockEmployee.resources
+A:\Visual Studio 2017\Zheng LI\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.vbprojAssemblyReference.cache
+A:\Visual Studio 2017\Zheng LI\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.frmEmployeeAuthentication.resources
+A:\Visual Studio 2017\Zheng LI\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.frmOwnerAuthentication.resources
+A:\Visual Studio 2017\Zheng LI\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.frmAddSpecimen.resources
+A:\Visual Studio 2017\Zheng LI\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.frmRemoveSpecimen.resources
+A:\Visual Studio 2017\Zheng LI\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.frmViewSpecimenEmployee.resources
+A:\Visual Studio 2017\Zheng LI\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.frmEmployee.resources
+A:\Visual Studio 2017\Zheng LI\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.frmOwner.resources
+A:\Visual Studio 2017\Zheng LI\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.frmViewSpecimenOwner.resources
+A:\Visual Studio 2017\Zheng LI\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.frmViewStockEmployee.resources
+A:\Visual Studio 2017\Zheng LI\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.frmViewStockOwner.resources
+A:\Visual Studio 2017\Zheng LI\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.frmWelcome.resources
+A:\Visual Studio 2017\Zheng LI\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.Resources.resources
+A:\Visual Studio 2017\Zheng LI\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.frmScheduleEmployee.resources
+A:\Visual Studio 2017\Zheng LI\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.frmScheduleOwner.resources
+A:\Visual Studio 2017\Zheng LI\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.vbproj.GenerateResource.cache
+A:\Visual Studio 2017\Zheng LI\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.vbproj.CoreCompileInputs.cache
+A:\Visual Studio 2017\Zheng LI\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.exe
+A:\Visual Studio 2017\Zheng LI\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.xml
+A:\Visual Studio 2017\Zheng LI\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.pdb
+A:\Visual Studio 2017\Zheng LI\SnakeBreeding\SnakeBreeding\bin\Debug\SnakeBreeding.exe.config
+A:\Visual Studio 2017\Zheng LI\SnakeBreeding\SnakeBreeding\bin\Debug\SnakeBreeding.exe
+A:\Visual Studio 2017\Zheng LI\SnakeBreeding\SnakeBreeding\bin\Debug\SnakeBreeding.pdb
+A:\Visual Studio 2017\Zheng LI\SnakeBreeding\SnakeBreeding\bin\Debug\SnakeBreeding.xml
+A:\Visual Studio 2017\Zheng LI\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.frmUsers.resources
+A:\Visual Studio 2017\Zheng LI\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.frmBreedingPredicitonOwner.resources
+A:\Visual Studio 2017\Zheng LI\SnakeBreeding\SnakeBreeding\obj\Debug\SnakeBreeding.frmBreedingPredictionEmployee.resources
+S:\SnakeBreeding - Somehow working\SnakeBreeding\bin\Debug\SnakeBreeding.exe.config
+S:\SnakeBreeding - Somehow working\SnakeBreeding\bin\Debug\SnakeBreeding.exe
+S:\SnakeBreeding - Somehow working\SnakeBreeding\bin\Debug\SnakeBreeding.pdb
+S:\SnakeBreeding - Somehow working\SnakeBreeding\bin\Debug\SnakeBreeding.xml
+S:\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.vbprojAssemblyReference.cache
+S:\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmBreedingPredicitonOwner.resources
+S:\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmBreedingPredictionEmployee.resources
+S:\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmUsers.resources
+S:\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmEmployeeAuthentication.resources
+S:\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmOwnerAuthentication.resources
+S:\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmAddSpecimen.resources
+S:\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmRemoveSpecimen.resources
+S:\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmViewSpecimenEmployee.resources
+S:\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmEmployee.resources
+S:\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmOwner.resources
+S:\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmViewSpecimenOwner.resources
+S:\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmViewStockEmployee.resources
+S:\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmViewStockOwner.resources
+S:\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmWelcome.resources
+S:\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.Resources.resources
+S:\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmScheduleEmployee.resources
+S:\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmScheduleOwner.resources
+S:\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.vbproj.GenerateResource.cache
+S:\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.vbproj.CoreCompileInputs.cache
+S:\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.exe
+S:\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.xml
+S:\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.pdb
+\\ac.stockton\root\userhome\gillr2\Documents\Visual Studio 2017\SnakeBreeding - Somehow working\SnakeBreeding\bin\Debug\SnakeBreeding.exe.config
+\\ac.stockton\root\userhome\gillr2\Documents\Visual Studio 2017\SnakeBreeding - Somehow working\SnakeBreeding\bin\Debug\SnakeBreeding.exe
+\\ac.stockton\root\userhome\gillr2\Documents\Visual Studio 2017\SnakeBreeding - Somehow working\SnakeBreeding\bin\Debug\SnakeBreeding.pdb
+\\ac.stockton\root\userhome\gillr2\Documents\Visual Studio 2017\SnakeBreeding - Somehow working\SnakeBreeding\bin\Debug\SnakeBreeding.xml
+\\ac.stockton\root\userhome\gillr2\Documents\Visual Studio 2017\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.vbprojAssemblyReference.cache
+\\ac.stockton\root\userhome\gillr2\Documents\Visual Studio 2017\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmBreedingPredicitonOwner.resources
+\\ac.stockton\root\userhome\gillr2\Documents\Visual Studio 2017\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmBreedingPredictionEmployee.resources
+\\ac.stockton\root\userhome\gillr2\Documents\Visual Studio 2017\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmUsers.resources
+\\ac.stockton\root\userhome\gillr2\Documents\Visual Studio 2017\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmEmployeeAuthentication.resources
+\\ac.stockton\root\userhome\gillr2\Documents\Visual Studio 2017\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmOwnerAuthentication.resources
+\\ac.stockton\root\userhome\gillr2\Documents\Visual Studio 2017\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmAddSpecimen.resources
+\\ac.stockton\root\userhome\gillr2\Documents\Visual Studio 2017\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmRemoveSpecimen.resources
+\\ac.stockton\root\userhome\gillr2\Documents\Visual Studio 2017\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmEmployee.resources
+\\ac.stockton\root\userhome\gillr2\Documents\Visual Studio 2017\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmOwner.resources
+\\ac.stockton\root\userhome\gillr2\Documents\Visual Studio 2017\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmViewSpecimenOwner.resources
+\\ac.stockton\root\userhome\gillr2\Documents\Visual Studio 2017\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmViewStockEmployee.resources
+\\ac.stockton\root\userhome\gillr2\Documents\Visual Studio 2017\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmViewStockOwner.resources
+\\ac.stockton\root\userhome\gillr2\Documents\Visual Studio 2017\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmWelcome.resources
+\\ac.stockton\root\userhome\gillr2\Documents\Visual Studio 2017\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.Resources.resources
+\\ac.stockton\root\userhome\gillr2\Documents\Visual Studio 2017\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmScheduleOwner.resources
+\\ac.stockton\root\userhome\gillr2\Documents\Visual Studio 2017\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.vbproj.GenerateResource.cache
+\\ac.stockton\root\userhome\gillr2\Documents\Visual Studio 2017\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.vbproj.CoreCompileInputs.cache
+\\ac.stockton\root\userhome\gillr2\Documents\Visual Studio 2017\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.exe
+\\ac.stockton\root\userhome\gillr2\Documents\Visual Studio 2017\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.xml
+\\ac.stockton\root\userhome\gillr2\Documents\Visual Studio 2017\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.pdb
+\\ac.stockton\root\userhome\gillr2\Documents\Visual Studio 2017\SnakeBreeding - Somehow working\SnakeBreeding\bin\Debug\DatabaseLM1.mdb
+M:\Visual Studio 2017\Zheng LI\SnakeBreeding - Somehow working\SnakeBreeding - Somehow working\SnakeBreeding\bin\Debug\DatabaseLM1.mdb
+M:\Visual Studio 2017\Zheng LI\SnakeBreeding - Somehow working\SnakeBreeding - Somehow working\SnakeBreeding\bin\Debug\SnakeBreeding.exe.config
+M:\Visual Studio 2017\Zheng LI\SnakeBreeding - Somehow working\SnakeBreeding - Somehow working\SnakeBreeding\bin\Debug\SnakeBreeding.exe
+M:\Visual Studio 2017\Zheng LI\SnakeBreeding - Somehow working\SnakeBreeding - Somehow working\SnakeBreeding\bin\Debug\SnakeBreeding.pdb
+M:\Visual Studio 2017\Zheng LI\SnakeBreeding - Somehow working\SnakeBreeding - Somehow working\SnakeBreeding\bin\Debug\SnakeBreeding.xml
+M:\Visual Studio 2017\Zheng LI\SnakeBreeding - Somehow working\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.vbprojAssemblyReference.cache
+M:\Visual Studio 2017\Zheng LI\SnakeBreeding - Somehow working\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmBreedingPredictionEmployee.resources
+M:\Visual Studio 2017\Zheng LI\SnakeBreeding - Somehow working\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmUsers.resources
+M:\Visual Studio 2017\Zheng LI\SnakeBreeding - Somehow working\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmEmployeeAuthentication.resources
+M:\Visual Studio 2017\Zheng LI\SnakeBreeding - Somehow working\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmOwnerAuthentication.resources
+M:\Visual Studio 2017\Zheng LI\SnakeBreeding - Somehow working\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmAddSpecimen.resources
+M:\Visual Studio 2017\Zheng LI\SnakeBreeding - Somehow working\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmRemoveSpecimen.resources
+M:\Visual Studio 2017\Zheng LI\SnakeBreeding - Somehow working\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmEmployee.resources
+M:\Visual Studio 2017\Zheng LI\SnakeBreeding - Somehow working\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmOwner.resources
+M:\Visual Studio 2017\Zheng LI\SnakeBreeding - Somehow working\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmViewSpecimenOwner.resources
+M:\Visual Studio 2017\Zheng LI\SnakeBreeding - Somehow working\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmViewStockEmployee.resources
+M:\Visual Studio 2017\Zheng LI\SnakeBreeding - Somehow working\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmViewStockOwner.resources
+M:\Visual Studio 2017\Zheng LI\SnakeBreeding - Somehow working\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmWelcome.resources
+M:\Visual Studio 2017\Zheng LI\SnakeBreeding - Somehow working\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.Resources.resources
+M:\Visual Studio 2017\Zheng LI\SnakeBreeding - Somehow working\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmScheduleOwner.resources
+M:\Visual Studio 2017\Zheng LI\SnakeBreeding - Somehow working\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.vbproj.GenerateResource.cache
+M:\Visual Studio 2017\Zheng LI\SnakeBreeding - Somehow working\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.vbproj.CoreCompileInputs.cache
+M:\Visual Studio 2017\Zheng LI\SnakeBreeding - Somehow working\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.exe
+M:\Visual Studio 2017\Zheng LI\SnakeBreeding - Somehow working\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.xml
+M:\Visual Studio 2017\Zheng LI\SnakeBreeding - Somehow working\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.pdb
+M:\Visual Studio 2017\Zheng LI\SnakeBreeding - Somehow working\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmBreedingPredictionOwner.resources
+M:\Visual Studio 2017\Zheng LI\SnakeBreeding - Somehow working\SnakeBreeding - Somehow working\SnakeBreeding\obj\Debug\SnakeBreeding.frmViewSpecimenEmployee.resources

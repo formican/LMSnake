@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7042CC70-4B7B-4194-B0EB-29BBF2FE9C23}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SnakeBreeding.My.MyApplication</StartupObject>
+    <RootNamespace>SnakeBreeding</RootNamespace>
+    <AssemblyName>SnakeBreeding</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SnakeBreeding.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SnakeBreeding.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>On</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DatabaseLM1DataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DatabaseLM1DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmBreedingPredictionEmployee.Designer.vb">
+      <DependentUpon>frmBreedingPredictionEmployee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBreedingPredictionEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBreedingPredictionOwner.Designer.vb">
+      <DependentUpon>frmBreedingPredictionOwner.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBreedingPredictionOwner.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsers.Designer.vb">
+      <DependentUpon>frmUsers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeeAuthentication.Designer.vb">
+      <DependentUpon>frmEmployeeAuthentication.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeeAuthentication.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOwnerAuthentication.Designer.vb">
+      <DependentUpon>frmOwnerAuthentication.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmOwnerAuthentication.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddSpecimen.Designer.vb">
+      <DependentUpon>frmAddSpecimen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddSpecimen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRemoveSpecimen.Designer.vb">
+      <DependentUpon>frmRemoveSpecimen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRemoveSpecimen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployee.Designer.vb">
+      <DependentUpon>frmEmployee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOwner.Designer.vb">
+      <DependentUpon>frmOwner.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmOwner.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewSpecimenEmployee.Designer.vb">
+      <DependentUpon>frmViewSpecimenEmployee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewSpecimenEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewSpecimenOwner.Designer.vb">
+      <DependentUpon>frmViewSpecimenOwner.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewSpecimenOwner.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewStockEmployee.Designer.vb">
+      <DependentUpon>frmViewStockEmployee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewStockEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewStockOwner.Designer.vb">
+      <DependentUpon>frmViewStockOwner.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewStockOwner.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWelcome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWelcome.Designer.vb">
+      <DependentUpon>frmWelcome.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="frmScheduleOwner.Designer.vb">
+      <DependentUpon>frmScheduleOwner.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmScheduleOwner.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmBreedingPredictionEmployee.resx">
+      <DependentUpon>frmBreedingPredictionEmployee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBreedingPredictionOwner.resx">
+      <DependentUpon>frmBreedingPredictionOwner.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsers.resx">
+      <DependentUpon>frmUsers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeeAuthentication.resx">
+      <DependentUpon>frmEmployeeAuthentication.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOwnerAuthentication.resx">
+      <DependentUpon>frmOwnerAuthentication.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddSpecimen.resx">
+      <DependentUpon>frmAddSpecimen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRemoveSpecimen.resx">
+      <DependentUpon>frmRemoveSpecimen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployee.resx">
+      <DependentUpon>frmEmployee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOwner.resx">
+      <DependentUpon>frmOwner.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewSpecimenEmployee.resx">
+      <DependentUpon>frmViewSpecimenEmployee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewSpecimenOwner.resx">
+      <DependentUpon>frmViewSpecimenOwner.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewStockEmployee.resx">
+      <DependentUpon>frmViewStockEmployee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewStockOwner.resx">
+      <DependentUpon>frmViewStockOwner.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWelcome.resx">
+      <DependentUpon>frmWelcome.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmScheduleOwner.resx">
+      <DependentUpon>frmScheduleOwner.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DatabaseLM1DataSet.xsc">
+      <DependentUpon>DatabaseLM1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DatabaseLM1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DatabaseLM1DataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DatabaseLM1DataSet.xss">
+      <DependentUpon>DatabaseLM1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DatabaseLM1.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
